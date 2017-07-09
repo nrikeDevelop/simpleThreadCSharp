@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\bin\Debug\SimpleThreads.exe.config
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\bin\Debug\SimpleThreads.exe
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\bin\Debug\SimpleThreads.pdb
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.Form1.resources
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.exe
+c:\users\administrador\documents\visual studio 2017\Projects\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.pdb
